@@ -117,6 +117,6 @@ This is a deliberately **narrower** claim than "model collapse is real." The not
 
 ---
 
-*Originally submitted to the Imarticus Data Science Blogathon (PGA56 cohort, Postgraduate Program in Data Science and Analytics with GenAI).*
+*Originally submitted to the Imarticus Data Science Blogathon (PGA56 , Postgraduate Program in Data Science and Analytics with GenAI).*
 
 📰 **[Read the full narrative write-up on Medium →](https://medium.com/@sindhusharmamarupakaa/i-trained-an-ai-on-its-own-output-heres-what-it-forgot-582b8b8cb2a1)**
